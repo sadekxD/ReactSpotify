@@ -1,0 +1,2 @@
+export const SET_ACTIVE_TRACK = "SET_ACIVE_TRACK"
+export const PLAY_TRACK = "PLAY_TRACK"
